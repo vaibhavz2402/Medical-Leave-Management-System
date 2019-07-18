@@ -1,0 +1,21 @@
+﻿html {
+    margin: 0px;
+}
+.cover{  
+    border:1px solid black;
+    margin: 80px 50px;
+    padding: 50px 90px;
+    background-image: url('../Stock/page_bg_blur02.jpg');
+
+}
+
+.cover .input-01{
+    font-size: 25px;
+    font-weight:600;
+    height: 80px;
+
+
+}
+
+
+

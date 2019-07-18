@@ -1,0 +1,21 @@
+﻿body {
+    margin: 0px;
+}
+  .edit {
+            margin-top: 50px;
+            margin-bottom:100px;
+        }
+        .size{
+            font-size:20px;
+        }
+        .input-01{
+            width: 90%;
+           
+        }
+        .fontawesome{
+            margin-right:10px;
+        }
+        .form-01{
+            margin-left:0px;
+            
+        }
